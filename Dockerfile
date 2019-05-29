@@ -1,3 +1,5 @@
+##Dockerfile to create a DNS forwarding docker image using CentOS and DJBDNS server.
+
 FROM centos
 
 #Download DJBDNS files from https://cr.yp.to/djbdns/install.html
